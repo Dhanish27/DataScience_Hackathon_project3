@@ -1,1 +1,3 @@
 # DataScience_Hackathon_project3
+
+Welcome to the Hotel Booking Dashboard! This dashboard provides comprehensive insights into hotel bookings, encompassing analysis of booking patterns, guest demographics, and revenue trends. Designed for stakeholders in the hospitality industry, this dashboard offers a user-friendly interface to explore and understand key metrics related to hotel occupancy, booking lead time, guest composition, room allocation, and more. Whether you're a hotel manager, revenue analyst, or marketing strategist, this dashboard empowers you to make data-driven decisions to optimize pricing strategies, enhance guest experiences, and maximize revenue potential.
